@@ -6,7 +6,7 @@ import Categories from './components/Categories';
 const App = () => (
   <div>
     <header>
-      <h1>Bookstore CMS</h1>
+      <h1>Bookstore</h1>
       <nav>
         <Link
           style={{
