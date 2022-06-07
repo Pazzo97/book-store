@@ -7,6 +7,7 @@
 
 ## Built With
 
+- [HTML5](https://html5.org/)
 - [React](https://reactjs.org/)
 - [Redux-toolkit](https://redux-toolkit.js.org/)
 
