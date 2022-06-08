@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 - Run `npm build` to build the application with react .
 - Run `npm run start` to start the development server.
 
-## Authors
+## Author
 
 👤 **Patrick MUKUNZI**
 
@@ -48,6 +48,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse linters
+- [Bookstore API](https://www.notion.so/Bookstore-API-51ea269061f849118c65c0a53e88a739)
 
 ## 📝 License
 
