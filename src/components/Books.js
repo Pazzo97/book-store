@@ -14,7 +14,7 @@ const Books = () => {
 
   const keys = Object.keys(books);
   return (
-    <div>
+    <section className="books">
       {keys.length > 0
         && keys.map((key) => (
           <Book
@@ -24,8 +24,9 @@ const Books = () => {
             id={key}
           />
         ))}
+      <hr />
       <AddBook />
-    </div>
+    </section>
   );
 };
 

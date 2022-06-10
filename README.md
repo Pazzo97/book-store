@@ -10,6 +10,7 @@
 - [HTML5](https://html5.org/)
 - [React](https://reactjs.org/)
 - [Redux-toolkit](https://redux-toolkit.js.org/)
+- [Sass](https://sass-lang.com/)
 
 ## Live Demo (coming soon)
 
@@ -49,6 +50,7 @@ Give a ⭐️ if you like this project!
 
 - Microverse linters
 - [Bookstore API](https://www.notion.so/Bookstore-API-51ea269061f849118c65c0a53e88a739)
+- [Zeplin Bookstore Design](https://app.zeplin.io/project/5b35a9e13227086040f8eb75/screen/5b695e29bb8c844f118f9378)
 
 ## 📝 License
 
